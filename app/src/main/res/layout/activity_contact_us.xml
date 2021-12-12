@@ -54,7 +54,7 @@
             android:layout_marginHorizontal="10dp"
             android:layout_weight="1"
             android:background="@null"
-            android:onClick="openLinkedin"
+            android:onClick="openInstagram"
             android:src="@drawable/instagram" />
 
         <ImageButton
