@@ -21,13 +21,14 @@ class ArticleAdapter (var results: ArrayList<ArticlesResponseItem>, val listener
 
         override fun onBindViewHolder(holder: ViewHolder, position: Int) {
             val result = results[position]
-//            holder.view.textView.text = result.title
+            holder.view.title.text = result.title
+            holder.view.category.text = result.category
             Glide.with(holder.view)
                 .load(result.thumbnail)
                 .placeholder(R.drawable.placeholder)
                 .error(R.drawable.placeholder)
                 .centerCrop()
-                .into(holder.view.imageView)
+                .into(holder.view.thumbnail)
             holder.view.setOnClickListener { listener.onClick( result ) }
         }
 
