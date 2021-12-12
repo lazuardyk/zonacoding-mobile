@@ -1,6 +1,7 @@
 package com.lazuardy.zonacoding
 
 import android.content.ContentValues.TAG
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.lazuardy.zonacoding.data.ArticlesResponseItem
@@ -26,11 +27,11 @@ class MainActivity : AppCompatActivity() {
     private fun setupRecyclerView(){
         articleAdapter = ArticleAdapter(arrayListOf(), object : ArticleAdapter.OnAdapterListener {
             override fun onClick(result: ArticlesResponseItem) {
-//                startActivity(
-//                    Intent(this@MainActivity, DetailActivity::class.java)
-//                        .putExtra("intent_title", result.title)
-//                        .putExtra("intent_image", result.image)
-//                )
+                val articleUrl = "https://zonacoding.com/article/" + result.slug
+                startActivity(
+                    Intent(this@MainActivity, ArticleActivity::class.java)
+                        .putExtra("article_url", articleUrl)
+                )
             }
         })
         recyclerView.apply {
