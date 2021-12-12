@@ -6,6 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.lazuardy.zonacoding.data.ArticlesResponseItem
 import android.util.Log
+import android.view.Menu
+import android.view.MenuItem
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.lazuardy.zonacoding.api.RetroInstance
@@ -22,6 +24,19 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         setupRecyclerView()
         getDataFromApi()
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.contact_menu, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        val id: Int = item.itemId
+        return if (id == R.id.action_contact_us) {
+            startActivity(Intent(this@MainActivity, ContactUsActivity::class.java))
+            true
+        } else super.onOptionsItemSelected(item)
     }
 
     private fun setupRecyclerView(){
