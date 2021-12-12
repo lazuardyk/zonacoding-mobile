@@ -1,10 +1,10 @@
 package com.lazuardy.zonacoding.api
 
-import com.lazuardy.zonacoding.data.ArticlesResponse
+import com.lazuardy.zonacoding.data.ArticlesResponseItem
 import retrofit2.Call
 import retrofit2.http.GET
 
 interface Api {
-    @GET("/articlesall")
-    fun getArticles(): Call<ArticlesResponse>
+    @GET("articlesall")
+    fun getArticles(): Call<List<ArticlesResponseItem>>
 }

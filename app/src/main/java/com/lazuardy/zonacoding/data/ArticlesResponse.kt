@@ -2,12 +2,6 @@ package com.lazuardy.zonacoding.data
 
 import com.google.gson.annotations.SerializedName
 
-data class ArticlesResponse(
-
-	@field:SerializedName("ArticlesResponse")
-	val articlesResponse: List<ArticlesResponseItem?>? = null
-)
-
 data class ArticlesResponseItem(
 
 	@field:SerializedName("thumbnail")
