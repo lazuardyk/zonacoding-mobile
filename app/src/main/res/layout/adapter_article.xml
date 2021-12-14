@@ -40,6 +40,7 @@
         android:paddingHorizontal="10dp"
         android:letterSpacing="0"
         android:fontFamily="@font/firasans_regular"
+        android:enabled="false"
         />
 
     <TextView
