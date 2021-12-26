@@ -1,0 +1,798 @@
+﻿1
+00:00:00,560 --> 00:00:06,157
+Lazu :  Oke Assalamualaikum wr. wb
+Zaidan : Waalaikumsalam wr. wb
+
+2
+00:00:06,157 --> 00:00:12,789
+Lazu : disini saya Lazuardy
+Khatulistiwa bersama teman saya Zaidan
+
+3
+00:00:12,789 --> 00:00:19,939
+Lazu : Saya ingin melakukan wawancara user
+testing untuk aplikasi yang saya buat
+
+4
+00:00:19,939 --> 00:00:24,489
+Lazu : yaitu zona coding dalam rangka untuk memenuhi
+
+5
+00:00:24,489 --> 00:00:34,820
+Lazu : tugas akhir mata kuliah mobile computing
+sebelumnya boleh perkenalkan diri dulu.. Zaidan
+
+6
+00:00:34,820 --> 00:00:42,869
+Zaidan : ya nama saya Zaidan Pratama,  Saya
+seorang mahasiswa jurusan ilmu komputer
+
+7
+00:00:42,869 --> 00:00:52,579
+Zaidan : dan sekaligus juga lagi magang ssalah satu perusahaan di perusahaan, keseharian saya ya berkuliah dan juga magang
+
+8
+00:00:59,484 --> 00:01:02,190
+Lazu : karena tadi itu jurusannya...
+
+9
+00:01:03,460 --> 00:01:08,530
+Lazu : komputer ya, sekarang masih suka
+baca-baca tutorial programming enggak ?
+
+10
+00:01:08,530 --> 00:01:15,299
+Zaidan : sering"
+Lazu : atau akhir akhir ini... oh sering ya ?
+
+11
+00:01:15,299 --> 00:01:21,069
+Zaidan : hampir tiap hari malah karena kan
+apa ya sering-sering nyari nyari inian
+
+12
+00:01:21,069 --> 00:01:27,719
+Zaidan : tutorial buat ngerjain task gitu atau
+memang kandang ngelihat aja baca gitu
+
+13
+00:01:27,719 --> 00:01:36,310
+Lazu : berarti karena tuntutan pekerjaan juga ya?
+Zaidan : Iya Ya kurang lebih
+
+14
+00:01:36,310 --> 00:01:41,789
+Lazu : nah di ketentuan tugas ini saya ada untuk
+
+15
+00:01:41,789 --> 00:01:49,299
+Lazu : membuktikan, jadi mas zaidan ini jadi disuruh untuk membuktikan
+
+16
+00:01:49,299 --> 00:01:55,120
+Lazu : kalau pernah kau buka-buka artikel tentang programming
+
+17
+00:01:55,120 --> 00:02:02,590
+Lazu : kalau boleh tolong dishare screen
+artikel Apa sih yang lagi dibaca
+
+18
+00:02:02,590 --> 00:02:07,140
+Lazu : yang pernah deh... yang kemaren-kemaren
+
+19
+00:02:14,599 --> 00:02:21,000
+Zaidan : nih udah masuk belum ?
+Lazu : masuk-masuk
+
+20
+00:02:27,778 --> 00:02:33,180
+Zaidan : Nah ini salah satu
+contohnya saya baca how to convert PDF with...
+
+21
+00:02:33,180 --> 00:02:43,374
+Zaidan : ...javascript ini buat salah satu tugas
+dari magang tentang buat PDF gitu dari HTML
+
+22
+00:02:48,112 --> 00:02:51,090
+Zaidan : ini ada tutorial query
+
+23
+00:02:52,310 --> 00:03:00,560
+Zaidan : query salah satu Framework,
+forum juga sih sudah jatuhnya terus ...
+
+24
+00:03:00,560 --> 00:03:06,759
+Zaidan : gak cuman ini sih, banyak ada beberapa yang... ini juga kayaknya
+
+25
+00:03:10,659 --> 00:03:17,039
+Zaidan : udah sih paling ini tadi yang yang akhir-akhir ini kalau yang artikel
+
+26
+00:03:17,039 --> 00:03:27,349
+Lazu : berarti kalau saya lebih banyak
+referensinya itu bahasa Inggris ya?
+Zaidan : ya benar
+
+27
+00:03:27,349 --> 00:03:32,392
+Zaidan :nih boleh stop share screen?
+Lazu : oke oke Boleh
+
+28
+00:03:33,159 --> 00:03:40,189
+Lazu :  oke selanjutnya mau nanya udah tau zona coding atau belum ?
+
+29
+00:03:40,189 --> 00:03:47,750
+Zaidan : udah tahu
+Lazu : kalau udah, tahu dari mana boleh dijelasin?
+
+30
+00:03:47,750 --> 00:03:54,460
+Zaidan : waktu itu kan pernah dishare juga di grup
+
+31
+00:03:54,460 --> 00:04:05,560
+Zaidan : sempet beberapa tugas itu mesti baca
+artikel nah kebetulan zona coding ada xv6, flask
+
+32
+00:04:05,560 --> 00:04:11,060
+Zaidan :  Aduh banyak dan saya juga
+pernah baca yang deno karena menarik
+
+33
+00:04:11,060 --> 00:04:14,740
+Zaidan : itu soalnya jarang banget yang bahas waktu itu
+
+34
+00:04:14,740 --> 00:04:19,394
+Zaidan : itu sih paling tahu dari IG juga itu
+
+35
+00:04:19,394 --> 00:04:22,569
+Lazu : Oke berarti cukup pernah ngikutin ya...
+
+36
+00:04:22,569 --> 00:04:29,959
+Lazu : zonacoding, karena kan masih inget
+juga beberapa artikel yang dibaca
+
+37
+00:04:29,959 --> 00:04:37,699
+Lazu : oke nah terkait zonacoding itu
+saya abis bikin aplikasi dan rilis di
+
+38
+00:04:37,699 --> 00:04:43,089
+Lazu : playstore namanya sama juga zonacoding, yang isinya ...
+
+39
+00:04:43,089 --> 00:04:47,930
+Lazu : tentang artikel programming yang ada di
+zona coding sebelumnya, yang ada di...
+
+40
+00:04:47,930 --> 00:04:54,019
+Lazu : websitenya zonacoding, jadi Nanti selain dari
+website kita bisa juga akses lewat...
+
+41
+00:04:54,019 --> 00:05:01,279
+Lazu : aplikasi mobile, nah aplikasinya itu udah
+saya rilis di playstore untuk linknya
+
+42
+00:05:01,279 --> 00:05:05,248
+Lazu : akan saya kirimkan lewat chat Google Meet ini
+
+43
+00:05:07,894 --> 00:05:11,512
+Lazu : nah ini untuk link aplikasinya
+
+44
+00:05:13,761 --> 00:05:15,957
+Lazu : terkait user testing..
+
+45
+00:05:16,728 --> 00:05:23,269
+Lazu: jadi Mas Zaidan diminta untuk
+mengunduh aplikasi zona codingnya, Nanti..
+
+46
+00:05:23,269 --> 00:05:30,038
+Lazu : akan saya Pandu mengenai fitur-fiturnya
+dan diminta untuk memberikan saran atau
+
+47
+00:05:30,038 --> 00:05:38,550
+Lazu : jika ada kendala boleh kirim masukan
+
+48
+00:05:38,589 --> 00:05:45,000
+Lazu : sebelum itu boleh dicoba diunduh
+dulu di HP sama pasien pakai akun Google sendiri
+
+49
+00:05:45,000 --> 00:05:45,909
+Zaidan : oh iya iya
+
+50
+00:06:30,170 --> 00:06:33,522
+Lazu : maaf masih dimute ya
+
+51
+00:06:33,787 --> 00:06:35,561
+Zaidan : udah udah
+
+52
+00:06:37,009 --> 00:06:45,209
+Lazu : Oke berarti aplikasinya bisa
+di-instal di HP nya ya ?
+Zaidan : bisa-bisa
+
+53
+00:06:45,209 --> 00:06:51,930
+Lazu : selanjutnya itu ada beberapa fitur yang
+bakalan saya kasih tahu
+
+54
+00:06:51,930 --> 00:06:59,750
+Lazu : dan akan saya Pandu dan nanti masnya ngasih saran berdasarkan fitur yg saya sebutkan
+
+55
+00:06:59,750 --> 00:07:09,519
+Lazu : fitur yang pertama itu ada fitur melihat daftar artikel, yaitu yang berada di paling depan
+
+56
+00:07:09,519 --> 00:07:16,689
+Lazu : pas masuk ke aplikasinya bisa dicoba-coba dulu
+
+57
+00:07:16,689 --> 00:07:19,554
+Lazu : misalnya discroll atau...
+
+58
+00:07:20,529 --> 00:07:27,050
+Lazu : dicoba-coba buat melihat juga nggak papa, di situ di daftarnya itu Ada
+
+59
+00:07:27,050 --> 00:07:32,132
+Lazu : Judul ada kategori sama ada thumbnailnya juga
+
+60
+00:07:32,132 --> 00:07:34,471
+Zaidan : iya udah bisa nih
+
+61
+00:07:37,381 --> 00:07:39,124
+Zaidan : tanggapannya...
+
+62
+00:07:41,110 --> 00:07:49,350
+Zaidan : tanggapannya sih ya bagus, Saya suka
+
+63
+00:07:49,657 --> 00:07:56,500
+Zaidan : artikel buat programming ini juga ada thumbnailnya, jadi nggak cuman judul, jadi enggak pusing
+
+64
+00:07:56,500 --> 00:08:01,509
+Zaidan : gitu bisa lihat dari thumbnail, ada kategorinya juga enak nih kalau misalkan
+
+65
+00:08:01,509 --> 00:08:09,060
+Zaidan : buat filter inian pencarian terus
+cukup banyak ya artikelnya udah nambah
+
+66
+00:08:09,060 --> 00:08:17,629
+Lazu : oke deh kalau kendalanya, ada
+kendala nggak ? pas melihat halaman depannya?
+
+67
+00:08:17,629 --> 00:08:27,860
+Zaidan : gaada kendala, rapi terus juga ga berantakan, ga menabrak terus pas dikilk juga bisa
+
+68
+00:08:27,860 --> 00:08:32,289
+Lazu : kalau saya lihat itu hp-nya dakrmode ya ?
+
+69
+00:08:32,289 --> 00:08:35,965
+Lazu : warnanya itu udah nyaman dilihat belum ?
+
+70
+00:08:36,080 --> 00:08:42,320
+Zaidan : nyatu nyatu, udah cocok
+Lazu : udah cocok berarti ?
+
+71
+00:08:42,320 --> 00:08:49,669
+Lazu : berarti daftar artikelnya
+secara fungsionalitas juga udah bisa
+
+72
+00:08:49,669 --> 00:08:54,769
+Lazu : dan tampilannya juga udah nyaman ya kalau bagi mas zaidan
+Zaidan : iya
+
+73
+00:08:54,769 --> 00:09:00,879
+Lazu : oke lanjut ke fitur selanjutnya
+itu ada melihat detail artikel
+
+74
+00:09:00,879 --> 00:09:10,178
+Lazu : fitur ini tuh maksudnya pas diklik dia
+ngebuka detail artikelnya, materinya, judulbya
+
+75
+00:09:10,178 --> 00:09:16,100
+Lazu : kayak kalau ada gambar dia ada gambarnya
+dan potongan kodenya bisa dicoba
+
+76
+00:09:16,100 --> 00:09:21,879
+Lazu : terlebih dahulu Mungkin dilihat-lihat beberapa artikel
+
+77
+00:09:27,858 --> 00:09:30,215
+Zaidan : ya udah di coba....
+
+78
+00:09:32,040 --> 00:09:34,718
+Zaidan : tanggapannya ya ?
+
+79
+00:09:35,245 --> 00:09:43,329
+Zaidan : tanggapannya bagus sih secara desain Rapih bagus terus juga penggunaan font nyaman
+
+80
+00:09:43,329 --> 00:09:45,449
+Zaidan : ukuran font, margin
+
+81
+00:09:50,740 --> 00:09:57,039
+Zaidan : ini ada buat kodenya, ada ini
+apa sih namanya kayak markdown yang
+
+82
+00:09:57,039 --> 00:10:05,389
+Zaidan : dimaksud ya itu jadi enakan
+buat di baca gitu. Nah terus juga ini..
+
+83
+00:10:05,389 --> 00:10:10,730
+Zaidan : yang saya suka tuh ada ini ada kayak
+loadernya gitu di atas
+
+84
+00:10:10,730 --> 00:10:17,059
+Zaidan : progressbar ini keren-keren
+Lazu : kalau discroll makin ke bawah Dia kelihatan
+
+85
+00:10:17,059 --> 00:10:26,079
+Lazu : progress dari  artikelnya ya ?
+Zaidan : betul betul itu enak jadi
+user tahu pas baca nih dikit lagi kelar
+
+86
+00:10:26,080 --> 00:10:32,929
+Lazu : kalau kendala enggak misalnya fontnya
+kurang besar atau gambarnya kurang gede
+
+87
+00:10:32,929 --> 00:10:39,099
+Lazu : atau marginnya ada yang Lebak aman ya?
+Zaidan : aman aman
+
+88
+00:10:39,100 --> 00:10:47,289
+Zaidan : warna aman, margin aman, terus juga
+enggak ada yang nabrak, cocok-cocok
+
+89
+00:10:47,289 --> 00:10:57,539
+Lazu : berarti buatnya detail artikelnya udah bagus ya? udah nyaman juga dibacanya
+Zaidan : betul
+
+90
+00:10:57,539 --> 00:11:03,269
+Lazu : fitur selanjutnya itu masih
+tentang artikel yaitu komentar di
+
+91
+00:11:03,269 --> 00:11:09,269
+Lazu : artikelnya. Jadi kalau misalnya
+kita ada tanggapan diartikel, misalnya...
+
+92
+00:11:09,269 --> 00:11:13,919
+Lazu :artikelnya kurang jelas atau ada
+pertanyaan atau mau sekedar
+
+93
+00:11:13,919 --> 00:11:18,349
+Lazu : apresiasi itu bisa lewat komentar
+
+94
+00:11:18,350 --> 00:11:23,830
+Lazu : bisa dicoba dulu misalnya komentar di artikel apa gitu
+
+95
+00:11:23,830 --> 00:11:29,370
+Zaidan : oh oke oke
+Lazu : nanti baru diberi tanggapan
+
+96
+00:11:33,350 --> 00:11:36,309
+Lazu : komentarnya itu ada di paling bawah artikel
+
+97
+00:11:36,309 --> 00:11:41,681
+Zaidan : ini komentarnya mesti login dulu ya ?
+
+98
+00:11:41,681 --> 00:11:42,818
+Lazu : iya betul
+
+99
+00:12:09,234 --> 00:12:10,884
+Zaidan : oke udah
+
+100
+00:12:13,139 --> 00:12:19,465
+Zaidan : tanggapannya sih kayaknya enakan nggak ada loginnya deh
+
+101
+00:12:19,465 --> 00:12:25,389
+Zaidan : kalau login tuh kayak jadi ribet gitu buat
+komen ,soalnya kalau komentar itu misal nanya
+
+102
+00:12:25,389 --> 00:12:31,559
+Zaidan : "kok ini nggak bisa gitu, kok itu di saya kayak gini gitu"
+
+103
+00:12:31,559 --> 00:12:37,350
+Lazu : impact kayaknya bikin males gitu
+komennya ya? jadi ga jadi komen gitu?
+
+104
+00:12:37,350 --> 00:12:44,879
+Zaidan : betul-betul
+Lazu : oke nanti kita coba pertimbangin itu biar mungkin lebih
+
+105
+00:12:44,879 --> 00:12:50,559
+Lazu : ke ada tambahannya kali di bawahnya biar
+dia ada pilihan mau login enggak gitu
+
+106
+00:12:50,559 --> 00:12:56,549
+Zaidan :  betul betul betul atau komentar sebagai tamu atau pembaca gitu
+
+107
+00:12:56,549 --> 00:13:03,370
+Lazu : jadi kalau misalnya nggak mau ribet juga bisa langsung komen gitu ya
+
+108
+00:13:03,370 --> 00:13:09,460
+Lazu : Oke bagus sih coba nanti kita
+coba tampung dulu, tapi kalau misalnya
+
+109
+00:13:09,460 --> 00:13:16,720
+Lazu : secara fungsionalitas sudah bekerja ini dengan baik apa belum ?
+Zaidan : ini udah
+
+110
+00:13:16,720 --> 00:13:24,190
+Zaidan : sesuai sih
+Lazu : oke udah bisa berarti komentar diartikelnya ya? oke lanjut ke
+
+111
+00:13:24,190 --> 00:13:28,840
+Lazu : fitur selanjutnya itu ada pencarian artikel
+
+112
+00:13:28,840 --> 00:13:36,450
+Lazu : jadi setelah kita lihat-lihat
+artikel kita bisa coba cari yang ada di
+
+113
+00:13:36,450 --> 00:13:40,919
+Lazu : zonacoding, jadi misalnya mau cari artikel
+
+114
+00:13:40,919 --> 00:13:50,740
+Lazu : next  js atau python bisa lewat tombol
+yang ada di atas kanan yang ada icon search
+
+115
+00:13:50,740 --> 00:13:52,582
+Lazu : nah itu bisa dicoba dulu
+
+116
+00:13:54,620 --> 00:14:00,850
+Lazu : mungkin di tes-tes keyword apa aja
+
+117
+00:14:02,818 --> 00:14:08,713
+Zaidan : Oke nih udah ngetes Deno
+Lazu : oke muncul ?
+
+118
+00:14:10,485 --> 00:14:11,774
+Lazu : kalau misalnya
+
+119
+00:14:11,808 --> 00:14:19,209
+Lazu : nya dicoba keyword asal gitu misalnya yang enggak ada artikelnya bisa apa engga ?
+
+120
+00:14:19,686 --> 00:14:24,808
+Zaidan : ohh ada toastnya nih ada
+pemberitahuan artikel tidak ditemukan
+
+121
+00:14:24,808 --> 00:14:25,969
+Zaidan : silahkan coba lagi
+
+122
+00:14:25,969 --> 00:14:28,157
+Lazu : nah kalau itu udah cukup jelas belum ?
+
+123
+00:14:28,668 --> 00:14:33,378
+Lazu ; menggambarkan kalau artikelnya itu engga ada gitu
+
+124
+00:14:33,537 --> 00:14:41,750
+Zaidan : kayaknya kalau toast kekecilan, kadang nggak kebaca gitu mending kasih pop up
+
+125
+00:14:41,750 --> 00:14:47,059
+Lazu : jadi kayak lebih digedein atau
+dikasih ilustrasi gitu mungkin ya
+
+126
+00:14:47,059 --> 00:14:54,272
+Zaidan ; iya, kalau bisa dikasih biar dia eye catching aja sih biar kebaca
+
+127
+00:14:54,272 --> 00:14:57,730
+Lazu : biar kebaca aja ya ?
+
+128
+00:14:57,730 --> 00:15:04,980
+Lazu :  oke bagus nih, coba nanti kalau
+misalnya enggak ada artikelnya coba terapin
+
+129
+00:15:04,980 --> 00:15:13,078
+Lazu ; diganti toastnya itu apa namanya
+yang teks keluar gitu kita coba ganti
+
+130
+00:15:13,078 --> 00:15:18,519
+Lazu : jadi pop apa tahu dikasih gambar atau gimana nanti
+
+131
+00:15:20,583 --> 00:15:25,827
+Lazu : nah selain itu berarti tadi tapi udah work ya udah lancar ya pencarian arikelnya?
+
+132
+00:15:25,827 --> 00:15:28,068
+Zaidan : bener bisa dicari
+
+133
+00:15:28,860 --> 00:15:34,879
+Lazu : lanjut ke fitur yang terakhir itu kontak kami
+
+134
+00:15:34,879 --> 00:15:39,409
+Lazu : kontak kami berada dipaling ujung kanan
+
+135
+00:15:39,409 --> 00:15:47,749
+Lazu : bisa coba di pencet dan itu journey itu kalau pengen kontak kita
+
+136
+00:15:47,749 --> 00:15:53,490
+Lazu : itu lewat sosial media yang bisa diklik di tamplian itu
+
+137
+00:15:53,490 --> 00:15:55,256
+Lazu : bisa di coba dulu
+
+138
+00:15:56,779 --> 00:16:02,620
+Lazu : dan kasih saran atau tanggapan
+
+139
+00:16:02,620 --> 00:16:04,573
+Zaidan : oke bisa bisa
+
+140
+00:16:05,159 --> 00:16:11,039
+Zaidan : kalo tanggapan sih paling ikonnya mesti diganti, ganti kayak
+
+141
+00:16:11,039 --> 00:16:16,289
+Zaidan : icon hubungi gitu, pokoknya
+kayak kalau icon-nya gini massegenya
+
+142
+00:16:16,289 --> 00:16:22,470
+Zaidan : kayak meet gitu
+Lazu : oh ya sih jadi kayak gitu langsung
+
+143
+00:16:22,470 --> 00:16:34,399
+Lazu : Pas dibuka itu langsung pesan
+gitu ya, kurang menggambarkan kalau itu kontak
+
+144
+00:16:34,399 --> 00:16:36,256
+Lazu : oke ada lagi ?
+
+145
+00:16:36,256 --> 00:16:39,957
+Lazu : tapi lancar ?
+Zaidan : lancar lancar
+
+146
+00:16:40,610 --> 00:16:48,919
+Lazu :  Berarti tadi ganti icon
+yang atas kanannya yang yang sebelum dia
+
+147
+00:16:48,919 --> 00:16:55,740
+Lazu : diklik ya, oke buat tampilan di
+kontak kaminya gaada masalah?
+
+148
+00:16:55,740 --> 00:17:00,779
+Zaidan : buat tampilannya nggak ada masalah
+sih ada ikonnya jelas Instagram, Facebook
+
+149
+00:17:00,779 --> 00:17:07,829
+Zaidan : Twitter, Github, juga ngelink semua paling
+kalau mau tambah form singkat buat
+
+150
+00:17:07,829 --> 00:17:13,319
+Zaidan : pesan gitu ke email, misalkan ada yang mau ngirim pesan lewat email kan bisa tuh
+
+151
+00:17:13,319 --> 00:17:18,710
+Zaidan : jadi kayak isinya pesan doang aja sama judul paling
+
+152
+00:17:18,710 --> 00:17:23,044
+Zaidan : judul ama massege paling
+
+153
+00:17:23,044 --> 00:17:26,393
+Lazu : jadi ada pilihan lain ya ? selain lewat..
+
+154
+00:17:26,430 --> 00:17:32,940
+Lazu : sosial media bisa langsung lewat situnya, Oke paling dibutuhin nama
+
+155
+00:17:32,940 --> 00:17:40,410
+Lazu : gitu-gitu email, bagus sih
+jadi nanti mempermudah pengguna juga kalo
+
+156
+00:17:40,410 --> 00:17:44,808
+Lazu : pengen kontak kita ya ?
+Zaidan : iya benar
+
+157
+00:17:44,808 --> 00:17:51,528
+Lazu : oke itu tadi fitur terakhirnya kalau
+misalnya secara overall, tanggapan
+
+158
+00:17:51,528 --> 00:17:56,839
+Lazu : tanggapannya Gimana bagus atau nggak
+juga gapapa
+
+159
+00:17:56,839 --> 00:17:59,090
+Zaidan : secara overall bagus
+
+160
+00:17:59,379 --> 00:18:05,919
+Zaidan : design bagus juga mirip sama webnya identik lah
+
+161
+00:18:05,919 --> 00:18:12,950
+Zaidan ; Artikel juga menarik, secara fungsi work semua, paling ada pembenaran sedikit yang
+
+162
+00:18:12,950 --> 00:18:17,720
+Zaidan : bikin nanti kualitas user experience makin bagus gitu kan makin
+
+163
+00:18:17,720 --> 00:18:25,609
+Zaidan : enak, makin nyaman terus juga, webnya ukurannya ga terlalu gede jadi
+
+164
+00:18:25,609 --> 00:18:30,679
+Zaidan : nggak masalah buat ini buat di-install
+
+165
+00:18:30,680 --> 00:18:35,450
+Zaidan : itu sih paling kalau secara
+keseluruhan bagus ah cocoklah buat
+
+166
+00:18:35,450 --> 00:18:42,319
+Zaidan : yang suka baca artikel programming
+Lazu : Oke Berarti tadi overall itu
+
+167
+00:18:42,319 --> 00:18:48,909
+Lazu ; lancar sama udah aman ya dan berguna juga buat kedepannya ya ?
+Zaidan : bener bener
+
+168
+00:18:48,910 --> 00:18:57,670
+Lazu : oke juga sarannya juga tadi ada
+beberapa yang saya ingat, kayak ganti ikon
+
+169
+00:18:57,670 --> 00:19:04,039
+Lazu : ganti buat form dikontak kaminya nanti kita coba dipertimbangkan juga
+
+170
+00:19:04,039 --> 00:19:08,908
+Lazu : pertimbangan buat update di aplikasi yang ada di playsotenya
+
+171
+00:19:08,909 --> 00:19:14,038
+Lazu : jadi nanti kalau misalnya ada update,
+update-nya juga bisa langsung lewat
+
+172
+00:19:14,038 --> 00:19:21,720
+Lazu : Playstore, oke paling itu aja sih wawancara
+Zaidan : iya betul
+
+173
+00:19:21,720 --> 00:19:25,337
+Lazu : yang dilakukan barusan
+
+174
+00:19:27,850 --> 00:19:34,553
+Lazu : sekian dari saya, terima kasih zaidan atas...
+
+175
+00:19:35,119 --> 00:19:40,889
+Lazu : udah hadir di sini buat user testing zonacoding
+
+176
+00:19:40,890 --> 00:19:42,373
+Zaidan : ya sama sama
+
+177
+00:19:42,373 --> 00:19:45,788
+Lazu : oke wassalamualaikum wr wb
+
+178
+00:19:46,979 --> 00:19:48,359
+Zaidan : waalaikumsalam wr wb
+

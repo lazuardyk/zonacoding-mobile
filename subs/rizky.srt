@@ -1,0 +1,1114 @@
+﻿1
+00:00:00,609 --> 00:00:06,549
+Lazu : Assalamualaikum wr wb
+
+2
+00:00:06,639 --> 00:00:13,759
+Lazu : disini saya Lazuardi khatulistiwa
+bersama dengan Rizki Saya disini untuk
+
+3
+00:00:13,759 --> 00:00:19,143
+Lazu : melakukan wawancara testing aplikasi
+yang saya buat dalam rangka untuk
+
+4
+00:00:19,143 --> 00:00:24,476
+Lazu : memenuhi tugas akhir di mata kuliah di mobile computing
+
+5
+00:00:25,420 --> 00:00:31,769
+Lazu : pertama-tama boleh diperkenalkan dulu
+Mas Rizky
+Rizky : oke Terima kasih
+
+6
+00:00:31,769 --> 00:00:39,128
+Rizky : Perkenalkan nama saya Rizky Muhammad
+Baihaqi biasa dipanggil Rizky... asal
+
+7
+00:00:39,128 --> 00:00:44,561
+Rizky : dari Bekasi, saat ini juga sedang tinggal
+di Bekasi kesibukan sehari-hari...
+
+8
+00:00:44,561 --> 00:00:49,038
+Rizky : ... adalah sebagai mahasiswa di Universitas diponegoro
+
+9
+00:00:49,823 --> 00:00:51,924
+Rizky : kuliahnya jurusan....
+
+10
+00:00:53,320 --> 00:01:01,409
+Rizky : Jurusan Informatika jadi ya lumayan
+terkait dengan topik yang hari ini kita bicarakan
+
+11
+00:01:01,409 --> 00:01:04,945
+Lazu : berarti kuliahnya Informatika ya?
+
+12
+00:01:04,945 --> 00:01:06,089
+Rizky : ya betul
+
+13
+00:01:06,529 --> 00:01:10,251
+Lazu : untuk akhir akhir ini atau....
+
+14
+00:01:10,251 --> 00:01:15,432
+Lazu : sering ga sih membaca artikel tutorial programming?
+
+15
+00:01:17,620 --> 00:01:22,933
+Rizky : sering banget saya bukan hanya
+akhir-akhir ini dari dulu juga dari...
+
+16
+00:01:23,404 --> 00:01:31,703
+Rizky : dari dulu tuh emang udah sering karena
+biasanya itu materi dari kampus tuh hanya
+
+17
+00:01:31,829 --> 00:01:38,079
+Rizky : sekedar ya permukaan lah
+dan untuk kayak trik-trik best practice
+
+18
+00:01:38,079 --> 00:01:43,810
+Rizky : dan ya biar kita lebih mudah mempermudah
+segala macam itu paling enak kalau kita
+
+19
+00:01:43,810 --> 00:01:49,870
+Rizky : cari sendiri dan ya sumber Paling Nyaman
+sih memang artikel-artikel tutorial gitu
+
+20
+00:01:49,870 --> 00:01:55,980
+Lazu : Oke berarti buat nyari yang lain diluar kuliah
+
+21
+00:01:55,980 --> 00:02:03,609
+Lazu : Oke berarti masih sering, nah salah satu
+syarat tugas saya ini ada untuk
+
+22
+00:02:03,609 --> 00:02:10,030
+Lazu : membuktikan lewat history boleh enggak
+sih dicoba share artikel artikel apa
+
+23
+00:02:10,030 --> 00:02:16,073
+Lazu : yang pernah dibaca atau yang lagi dibaca
+akhir akhir ini lewat share screen
+
+24
+00:02:16,324 --> 00:02:19,169
+Rizky : waduh share screen, oke oke
+
+25
+00:02:19,818 --> 00:02:24,834
+Lazu : Oke boleh ya berarti
+Rizky : boleh boleh, boleh banget nggak papa
+
+26
+00:02:24,834 --> 00:02:27,286
+Lazu : oke sip boleh coba share screen
+
+27
+00:02:35,550 --> 00:02:37,386
+Rizky : ada ya? Udah muncul ya?
+
+28
+00:02:37,386 --> 00:02:38,381
+Lazu : muncul muncul
+
+29
+00:02:38,381 --> 00:02:45,833
+Rizky : akhir akhir ini si, kemaren aku ada project untuk ngerjain ...
+
+30
+00:02:47,909 --> 00:02:53,249
+Rizky : ada satu project dalam laravel
+ya, pakai Framework laravel terus
+
+31
+00:02:53,249 --> 00:02:54,673
+Rizky : ya kita ada problem
+
+32
+00:02:55,509 --> 00:03:02,270
+Rizky : Gimana sih cara bikin file konstanta
+di laravel ini sedangkan di PHP tuh
+
+33
+00:03:02,270 --> 00:03:08,150
+Rizky : di PHP dan di laravel itu biasa
+belum jaranglah ada Pattern yang seperti
+
+34
+00:03:08,150 --> 00:03:15,819
+Rizky : kita pakai file konstant jadi ya ini
+ada artikel dari map defensor ini di
+
+35
+00:03:15,819 --> 00:03:26,129
+Rizky : dev.co dia ngasih kita sedikit, ada
+sekitar empat cara yang bisa kita pilih mau pakai...
+
+36
+00:03:26,129 --> 00:03:30,319
+Rizky : pattern yang mana gitu, ya manurutku si ini manarik sih, karena...
+
+37
+00:03:30,319 --> 00:03:35,009
+Rizky : case case kayak gini nggak semua orang dapet tapi kalau misalnya kita dapet kita mau...
+
+38
+00:03:35,009 --> 00:03:38,841
+Rizky : cari kemana Kalau enggak dari artikel ini
+
+39
+00:03:38,841 --> 00:03:40,182
+RIzky : nah itu untuk yang akhir akhir ini
+
+40
+00:03:40,990 --> 00:03:46,210
+Rizky :  kalau yang sebelumnya mungkin historyku ya dibuka ini
+
+41
+00:03:46,210 --> 00:03:50,843
+Rizky : ya biasanya sih kalau aku sumbernya
+dari dev.co itu ya
+
+42
+00:03:50,843 --> 00:03:52,142
+Lazu : oke oke
+
+43
+00:03:55,407 --> 00:03:58,174
+Rizky : ya ini lumayan banyak lah ya
+
+44
+00:03:59,069 --> 00:04:05,740
+Rizky : alternatif... lebih ke karena memang umum
+bahasa yang apa bahasa dan profesi
+
+45
+00:04:05,740 --> 00:04:11,439
+Rizky : kugunakan itu ada PHP dan javascript
+sama kayak laravel, react itu ya paling seputar"...
+
+46
+00:04:11,439 --> 00:04:14,050
+Rizky : itu aja yang kucari tips-tipsnya
+
+47
+00:04:14,050 --> 00:04:18,225
+Lazu : oke oke, berarti fokusnya lebih ke web developer ya ?
+
+48
+00:04:18,377 --> 00:04:22,500
+Rizky : Oh iya bener saya ditarik lebih jauh sih ke web developer
+
+49
+00:04:22,500 --> 00:04:30,974
+Lazu : oke, udah cukup sih, makasih
+udah curhat share screen ininya ya
+
+50
+00:04:32,041 --> 00:04:33,852
+Rizky : oh iya terima kasih
+
+51
+00:04:37,031 --> 00:04:43,619
+Lazu : sekarang itu untuk sesi testing
+aplikasinya, jadi saya itu habis bikin...
+
+52
+00:04:43,619 --> 00:04:49,978
+Lazu : aplikasi yang didalamnya itu nanti ada
+artikel-artikel tutorial programming
+
+53
+00:04:49,978 --> 00:04:55,218
+Lazu : dalam bahasa Indonesia dan namanya itu zonacoding
+
+54
+00:04:55,218 --> 00:05:03,659
+Lazu : aplikasinya itu ada di playstore cuma
+buat downloadnya ini coba saya kasih link nya
+
+55
+00:05:04,131 --> 00:05:05,742
+Lazu : dichat di google meet
+
+56
+00:05:09,200 --> 00:05:11,000
+Lazu : oke sebentar
+
+57
+00:05:14,249 --> 00:05:20,120
+Lazu : chatnya di Google Meet bisa dicoba didownload dulu di HP
+
+58
+00:05:20,120 --> 00:05:26,680
+Lazu : dan pastiin juga akun Googlenya pakai punya sendiri ya soalnya nanti ada
+
+59
+00:05:26,680 --> 00:05:28,276
+Lazu : dicek lewat...
+
+60
+00:05:29,267 --> 00:05:31,357
+Lazu : ... admin dashboardnya
+
+61
+00:05:34,034 --> 00:05:35,990
+Rizky : maksudnya punya sendiri ?
+
+62
+00:05:37,197 --> 00:05:41,793
+Lazu :  iya maksudnya akun Google sendiri
+Rizky : Okelah, ga punya orang gitu ya?
+
+63
+00:05:41,793 --> 00:05:42,445
+Lazu : iya betul betul
+
+64
+00:05:42,624 --> 00:05:45,722
+Rizky : oh ya udah udah di-download
+
+65
+00:05:46,036 --> 00:05:48,252
+Lazu : udah ya? udh selesai installnya juga ?
+
+66
+00:05:48,252 --> 00:05:49,851
+Rizky : udah udah, internetnya cepet
+
+67
+00:05:51,892 --> 00:05:54,000
+Lazu : sizenya juga kecil sih memang
+
+68
+00:05:55,968 --> 00:06:03,649
+Lazu : udah kelar jadi, terus pengen
+jelasin dulu di situ itu jadi ada
+
+69
+00:06:03,649 --> 00:06:10,488
+Lazu : daftar artikel yang udah saya bikin sebelumnya, Ada Judul kayak judul data mail
+
+70
+00:06:10,488 --> 00:06:16,328
+Lazu : ada kategori dan ada kalau diklik itu nanti ada detailnya
+
+71
+00:06:16,329 --> 00:06:23,680
+Lazu : saya coba sebutin satu-satu fiturnya
+nanti saya minta tanggapan dari Mas Rizky
+
+72
+00:06:23,680 --> 00:06:32,319
+Lazu : Gimana apakah lancar atau ada kendala atau feedback apapun juga enggak papa
+
+73
+00:06:32,319 --> 00:06:39,202
+Lazu : untuk fitur pertama itu fitur yang
+dari paling luar Jadi pas dibuka aplikasinya itu
+
+74
+00:06:39,202 --> 00:06:45,593
+Lazu : langsung tampil itu yang tadi Mas Rizky Tunjukkan yaitu fitur melihat daftar artikel
+
+75
+00:06:46,459 --> 00:06:55,255
+Lazu : nah buat di paling depan itu bisa
+dicoba-coba dulu mungkin apa discroll scroll
+
+76
+00:06:55,255 --> 00:07:00,992
+Lazu : coba apakah lancar atau ada kendala gitu
+nanti dikasih feedback
+
+77
+00:07:00,992 --> 00:07:07,329
+Lazu : boleh dicoba dulu. Nanti kalau udah bisa dikasih masukan
+
+78
+00:07:07,329 --> 00:07:13,109
+Lazu : saya kasih waktu buat nyoba-nyoba fitur buat yang ...
+
+79
+00:07:13,110 --> 00:07:17,069
+Lazu : melihat daftar artikel
+
+80
+00:07:19,529 --> 00:07:24,899
+Rizyky : udah-udah saya coba saya Scroll ke atas bawah...
+
+81
+00:07:27,350 --> 00:07:34,269
+Rizky : langsung feedback ini ?
+Lazu : ya boleh langsung feedback untuk fitur yg itu
+
+82
+00:07:34,269 --> 00:07:38,460
+Rizky : pas pertama kali nyobain sih
+
+83
+00:07:38,460 --> 00:07:42,914
+Rizky : secara design ini... kalau menurut saya
+
+84
+00:07:43,540 --> 00:07:50,620
+Rizky : apanya simpel gitu, simple, rapi ndak terlalu muluk-muluk enggak terlalu...
+
+85
+00:07:50,620 --> 00:07:55,709
+Rizky : ...banyak itu, yaitu menurut saya suatu kelebihan, tapi juga ...
+
+86
+00:07:55,709 --> 00:08:01,019
+Rizky : jadi kekurangan sebenarnya dengan simpel itu, jadi terlalu simpel
+
+87
+00:08:01,019 --> 00:08:05,889
+Rizky : mungkin itu jadi kelebihan dan kekurangannya
+Lazu : iya gapapa
+
+88
+00:08:05,889 --> 00:08:11,668
+Rizky : Oke jadi ya paling itu sih. Terus kalau secara...
+
+89
+00:08:11,668 --> 00:08:16,959
+Rizky : navigasi artikel Ya enak ya Scroll atas
+bawah, cuman mungkin, ini di atas ada...
+
+90
+00:08:16,959 --> 00:08:21,848
+Rizky : tombol ya kalau saya lihatin
+Lazu : Iya diatasnya itu ada tombol untuk fitur yang lain
+
+91
+00:08:21,848 --> 00:08:26,098
+Lazu : nanti akan kita bahas juga si
+
+92
+00:08:26,098 --> 00:08:30,069
+Rizky : ya fitunya gamasalah, tapi kalau untuk
+tombolnya saya rasa penempatannya...
+
+93
+00:08:30,069 --> 00:08:35,200
+Rizky : mungkin jangan di atas ya kali ya
+mungkin bisa di bawah ya atau tengah
+
+94
+00:08:35,200 --> 00:08:40,870
+Rizky : biar lebih mudah dijangkau tangan
+Lazu : Oke jadi nggak kelihatan kalau diatas ?
+
+95
+00:08:40,870 --> 00:08:45,138
+Rizky : Iya betul
+Lazu : kurang kelihatan fokusnya
+
+96
+00:08:45,138 --> 00:08:49,223
+Lazu : Oke sarannya jadi buat mindahin tombolnya
+
+97
+00:08:50,570 --> 00:08:57,220
+Lazu : ada lagi nggak buat
+yang daftar artikel ini yang di bagian home page
+
+98
+00:08:57,675 --> 00:09:04,039
+Lazu : kalau secara, dilihat itu udah enak apa belum gitu
+
+99
+00:09:04,039 --> 00:09:08,589
+Rizky : mungkin dipemilihan warna kali ya
+
+100
+00:09:08,590 --> 00:09:14,325
+Lazu : oke pemilihan warna
+Rizky :  tulisannya agak sulit dibaca sebenernya
+
+101
+00:09:14,481 --> 00:09:21,606
+Lazu :  kalau misal boleh tanya di HPnya itu
+aktifin mode Darkmode Enggak?
+
+102
+00:09:21,606 --> 00:09:22,920
+Rizky : oh ya aktifin
+
+103
+00:09:23,019 --> 00:09:31,512
+Lazu : Oke, itu karena belum ini sih,
+belum optimal di darkmode
+
+104
+00:09:31,794 --> 00:09:37,685
+Lazu : bisa coba matiin dulu Enggak darkmode nya
+Rizky : oke oke oke jadi lebih mantap lagi
+
+105
+00:09:37,685 --> 00:09:39,029
+Lazu : oke jadi lebih bagus ya ?
+
+106
+00:09:39,820 --> 00:09:44,940
+Lazu : mungkin bisa jadi masukan juga sih berarti kalau di dark mode itu...
+
+107
+00:09:44,940 --> 00:09:48,730
+Lazu : harusnya lebih bagus ya warnanya ya
+pemilihan warnanya
+
+108
+00:09:48,730 --> 00:09:55,011
+Rizky : mungkin kalau di darkmode itu tulisannya agak sulit dibaca ya dia tadi...
+
+109
+00:09:55,011 --> 00:10:02,830
+Rizky ; tapi kalau ini di mode biasa Light mode bagus sih bagus, simplenya yang tadi tuh bukan...
+
+110
+00:10:02,830 --> 00:10:08,190
+Riizky : Jadi kurang lagi tapi emang udah kelebihan
+Lazu : oke jadi bagus ya enak dilihat?
+
+111
+00:10:08,190 --> 00:10:14,649
+Rizky : mungkin berarti masukannya lebih ke kompabilitas terhadap darkmode ya
+
+112
+00:10:14,649 --> 00:10:22,500
+Lazu : karena sekarang juga rata-rata orang sudah
+memakai darkmode ya terutama untuk kalangan programmer
+
+113
+00:10:22,500 --> 00:10:30,929
+Lazu : oke oke bagus-bagus masukannya, nanti kita coba terapin, kita optimal di bagian darkmodenya
+
+114
+00:10:30,929 --> 00:10:35,041
+Lazu : tapi secara fungsionalitas berarti aman ya di HPnya ya?
+
+115
+00:10:35,229 --> 00:10:35,949
+Rizky : aman
+
+116
+00:10:37,070 --> 00:10:43,320
+Lazu : lanjut ke fitur berikutnya itu ada
+melihat detail artikel Jadi kalau...
+
+117
+00:10:43,320 --> 00:10:49,190
+Lazu : misalnya artikelnya itu diklik kita bisa baca isi dari artikel tersebut
+
+118
+00:10:49,190 --> 00:10:56,557
+Lazu : Nanti kayak ada tampilan berupa materi, tulisan, dan gambar, dan ada potongan kodenya juga
+
+119
+00:10:57,659 --> 00:11:03,539
+Lazu :  bisa dites dulu mungkin, bisa di baca beberapa artikel
+
+120
+00:11:03,539 --> 00:11:12,769
+Lazu : nanti Mas Rizki bisa kasih masukan Atau
+jika ada kendala bisa kasih feedback ke kita
+
+121
+00:11:13,340 --> 00:11:17,280
+Lazu : boleh dicoba baca baca dulu
+
+122
+00:11:51,740 --> 00:11:53,424
+Rizky : udah udah
+
+123
+00:11:53,424 --> 00:12:00,268
+Lazu : oke udah berarti ya, bisa kasih
+masukan mungkin terkait detail artikelnya
+
+124
+00:12:01,870 --> 00:12:09,440
+Rizky : Kalau saya sendiri pribadi prefrensi
+saya ketika membaca artikel atau buku
+
+125
+00:12:09,440 --> 00:12:14,080
+Rizky : di HP itu... layarnya saya buat landscape seperti ini
+
+126
+00:12:16,184 --> 00:12:23,889
+Rizky : dan pas ya awalnya pakai
+Coba dibuat landscape untuk aplikasi ini
+
+127
+00:12:23,889 --> 00:12:29,409
+Rizky : lebih nyaman, gitu entah kenapa karena tulisannya di...
+
+128
+00:12:29,409 --> 00:12:34,969
+Rizky : margin di tengah semua jadi enak. Saya suka fitur ininya
+
+129
+00:12:35,503 --> 00:12:39,685
+Rizky : landscapenya bagus,  terus juga ada progressnya ya kalau ini
+
+130
+00:12:39,685 --> 00:12:41,910
+Lazu : iya ada progress barnya diatas
+
+131
+00:12:44,269 --> 00:12:46,369
+Rizky :  menarik sini progress barnya
+
+132
+00:12:48,690 --> 00:12:54,662
+Rizky : bagus ya, fitur yang saya tidak
+tahu ternyata saya butuh gitu
+
+133
+00:12:58,649 --> 00:13:07,910
+Rizky :  kemudian juga yang untuk kodenya ya ini ada seperti text box untuk kode gitu ya...
+
+134
+00:13:07,910 --> 00:13:13,494
+Lazu : ya jadi ada kode formatnya sendiri ya Untuk
+penulisan kodenya
+
+135
+00:13:13,494 --> 00:13:18,590
+Rizky : ya ini syntax highlightnya untuk kode ini bagus sih, Saya juga...
+
+136
+00:13:18,590 --> 00:13:25,590
+Rizky : ...setuju banget ada ini, mungkin untuk ya Secara overall bagus ini yang...
+
+137
+00:13:29,546 --> 00:13:33,206
+Rizky : ya sesuai dengan tujuan apa yang dipasarkannya gitu
+
+138
+00:13:34,682 --> 00:13:37,451
+Lazu : kalau kendala ada gak pas bacanya ?...
+
+139
+00:13:37,549 --> 00:13:47,419
+Lazu : kurang gede Tulisannya atau kurang
+tengah atau gambarnya ada yang kurang gede
+
+140
+00:13:47,419 --> 00:13:51,792
+Lazu :  yang kurang jelas gitu ada nggak, apa udh aman semua ?
+
+141
+00:13:56,730 --> 00:14:00,240
+Rizky : secara tampilan sih ya
+responsif itu kalau saya puter-puter
+
+142
+00:14:00,240 --> 00:14:06,528
+Rizky : gini ukuran hp-nya bagus sih udah nyaman lah buat saya
+
+143
+00:14:06,528 --> 00:14:15,299
+Lazu : berarti overall lancar ya sama bagus ya
+untuk udah bisa dibaca diHP
+
+144
+00:14:15,299 --> 00:14:25,500
+Rizky : untuk HP sih nyaman sih
+Lazu : Oke sip sip, kita lanjut ke fitur berikutnya
+
+145
+00:14:25,500 --> 00:14:34,350
+Lazu : itu ada fitur komentar, jadi di tiap artikelnya itu bisa komentar
+
+146
+00:14:35,509 --> 00:14:40,460
+Lazu : jadi kita bisa menanggapi artikel, misalnya untuk...
+
+147
+00:14:40,460 --> 00:14:45,460
+Lazu : pertanyaan atau ada yang kurang jelas bisa di tanya di artikelnya
+
+148
+00:14:45,460 --> 00:14:50,870
+Lazu : Nah mungkin bisa dicoba dulu untuk komentarnya
+
+149
+00:14:50,870 --> 00:14:55,899
+Rizky : oke, nih komentarnya boleh asal atau gimana
+
+150
+00:14:55,899 --> 00:15:01,870
+Lazu : boleh-boleh asal untuk testingnya gapapa
+
+151
+00:15:11,710 --> 00:15:16,050
+Rizky : saya coba tulis komentar ya diartikel yang...
+
+152
+00:15:30,448 --> 00:15:32,447
+Rizky : ini daftar dulu ya ?
+
+153
+00:15:32,447 --> 00:15:35,116
+Lazu : iya harus daftar dulu
+
+154
+00:16:41,730 --> 00:16:45,139
+Rizky : bentar, tulisannya alamat email sudah digunakan
+
+155
+00:16:45,139 --> 00:16:52,850
+Rizky : mungkin saya pernah pakai sebelumnya
+Lazu : karena ini kita make buat komentarnya
+
+156
+00:16:52,850 --> 00:17:01,620
+Lazu : itu pakai third party g gitu kayak
+pihak ketiga namanya discuss
+
+157
+00:17:01,620 --> 00:17:07,640
+Rizky : jadi ada kemungkinan saya pernah menggunakan di tempat lain ya ?
+
+158
+00:17:29,920 --> 00:17:37,772
+Rizky : oke Udah nih, udah bisa
+udah login udah isi
+
+159
+00:17:37,772 --> 00:17:39,562
+Lazu : bisa ya berarti ya ?
+Rizky : bisa
+
+160
+00:17:41,069 --> 00:17:48,669
+Lazu : kalau untuk masukannya mungkin boleh terkait komentar di artikelnya
+
+161
+00:17:48,670 --> 00:17:55,900
+Rizky : untuk fitur komentar ini ya?
+fitur komentarnya sebenernya saya ...
+
+162
+00:17:55,900 --> 00:18:00,759
+Rizky : ngerasa familiar gitu sebelumnya tadi
+pernah lihat fitur ini dimana cuman saya...
+
+163
+00:18:00,759 --> 00:18:10,529
+Rizky : ...juga nggak yakin awalnya tapi nih kayaknya standar ya, dipakai di hampir segala tempat jadi .....
+
+164
+00:18:10,529 --> 00:18:15,660
+Rizky : bagus sih, udah bagus sudah sama
+dengan yang lain sehingga jadi pengguna...
+
+165
+00:18:15,660 --> 00:18:22,808
+Rizky : baru tuh Nggak kaget "wah ini halaman beda
+fitur beda lagi" ya ini sama terus
+
+166
+00:18:22,808 --> 00:18:30,000
+Rizky : menurut saya bagus sudah konsisten. sama dengan kebutuhan industri gitu
+
+167
+00:18:31,381 --> 00:18:37,740
+Lazu :  berarti kalau kendala gak ada ya?
+kalau secara flow soalnya daftar dulu gitu
+
+168
+00:18:37,740 --> 00:18:41,495
+Lazu : nggak papa ya? kalau bagi mas rizky
+
+169
+00:18:41,495 --> 00:18:45,607
+Rizky :  Oya sebenarnya agak ribet ya kalau emang harus daftar dulu
+
+170
+00:18:45,859 --> 00:18:54,440
+Rizky : tapi memang yang saya temukan
+biasanya juga pun daftar dulu entah itu daftar di...
+
+171
+00:18:54,440 --> 00:18:59,910
+Rizky : khusus di tempat mereka atau memang unik
+mereka menggunakan akun Google atau
+
+172
+00:18:59,910 --> 00:19:06,289
+Rizky : semacamnya, Emang saya lebih
+nyaman kalau tidak harus daftar tapi
+
+173
+00:19:06,289 --> 00:19:11,349
+RIzky : biasanya daftar juga enggak masalah
+Lazu : oke
+
+174
+00:19:11,712 --> 00:19:19,829
+Lazu : sebenarnya kalu misalnya, daftar diperlukan itu karena kalau kita bales itu nanti
+
+175
+00:19:19,829 --> 00:19:26,319
+Lazu : muncul di email gitu notifikasinya cuma mungkin emang dibutuhin fitur buat
+
+176
+00:19:26,319 --> 00:19:33,720
+Lazu : anonim atau nggak perlu daftar lagi
+misalnya dia mau ngasih apresiasi atau
+
+177
+00:19:33,720 --> 00:19:38,380
+Lazu : dia ngga perlu notifikasi email nya
+ganti jadi nanti dicek aja gitu di
+
+178
+00:19:38,380 --> 00:19:41,308
+Lazu : artikelnya apa kok gak dibales apa belum
+
+179
+00:19:41,308 --> 00:19:49,119
+Lazu : bisa juga sih jadi, emang mungkin lebih
+bagus ada fitur lain yang gak
+
+180
+00:19:49,119 --> 00:19:55,349
+Lazu : perlu daftar gitu jadi pilihannya
+Dipta : setuju tuh
+
+181
+00:19:55,349 --> 00:20:02,289
+Lazu : jadi kita bisa milih itu mau login nggak
+Dipta : saya setuju dengan itu
+
+182
+00:20:02,289 --> 00:20:09,889
+Rizky : Jadi ada pilihan buat user
+Lazu : bener bener, nanti kita coba pertimbangkan buat
+
+183
+00:20:09,890 --> 00:20:19,279
+Lazu : masukkan di komentar di artikel itu
+lanjut ke fitur selanjutnya itu ada pencarian artikel
+
+184
+00:20:19,279 --> 00:20:25,660
+Lazu : jadi bisa kembali ke halaman paling awal
+
+185
+00:20:25,660 --> 00:20:32,299
+Lazu : di atas, yang tadi mas
+bilang itu ada beberapa icon
+
+186
+00:20:32,299 --> 00:20:42,609
+Lazu : ada beberapa fitur, nah itu yang tombol yang di kanan atas yang sebelah kiri itu fitur pencarian artikel
+
+187
+00:20:42,609 --> 00:20:52,063
+Lazu : misalnya meski itu mau nyari artikel
+next.js atau tutorial Python gitu atau apapun bisa
+
+188
+00:20:52,063 --> 00:20:55,758
+Lazu : bisa di coba dulu nanti untuk...
+
+189
+00:20:56,410 --> 00:21:06,820
+Lazu : diberikan feedback ke saya biar jadi
+improvement di aplikasinya, bisa dicoba dulu di pencarian artikelnya
+
+190
+00:21:17,690 --> 00:21:24,774
+RIzky : ya udah udah udah saya coba
+Lazu : untuk masukannya apakah ada masukan
+
+191
+00:21:24,774 --> 00:21:29,470
+Lazu : ...atau kendala terkait fitur pencarian artikel ini
+
+192
+00:21:31,089 --> 00:21:38,429
+Rizky : dari fiturnya udah bagus ya apa ya, dia tuh carinya tuh benar-benar
+
+193
+00:21:38,429 --> 00:21:45,058
+Rizky : perkata gitu bisa dicari titik saya bisa
+nemuin yang walaupun ga tertulis di judul
+
+194
+00:21:45,058 --> 00:21:52,779
+Rizky : oke fitur pencariannya udah
+mantep mungkin feedback dari saya untuk masukan improvementnnya adalah
+
+195
+00:21:52,779 --> 00:21:58,210
+Rizky : pesan ketika Tidak ditemukannya
+mungkin...
+
+196
+00:21:58,210 --> 00:22:04,680
+Rizky : terlalu kecil yang menurut saya kurang,
+kurang besar itu jadi kalau...
+
+197
+00:22:04,680 --> 00:22:09,990
+Rizky : kita nggak nemu enggak kelihatan,
+kadang enggak kelihatan tulisannya gitu
+
+198
+00:22:09,990 --> 00:22:15,509
+Rizky : soalnya tadi saya sempet "eh mana ini tulisannya ?" oh ternyata dibawah
+
+199
+00:22:15,509 --> 00:22:17,815
+Lazu : jadi enggak tahu kalau misalnya enggak ada gitu ya
+
+200
+00:22:17,815 --> 00:22:21,217
+Rizky : ya saya pikir ngelag atau gimana ternyata udah selesai tapi...
+
+201
+00:22:21,269 --> 00:22:27,889
+Rizky :ada dibawah
+Lazu ; oke bagus si jadi nanti kita akan coba...
+
+202
+00:22:27,890 --> 00:22:33,319
+Lazu : ganti di bagian kalau misalnya enggak ada artikelnya gitu ya?
+
+203
+00:22:33,319 --> 00:22:40,980
+Lazu : dibesarin atau dikasih ilustrasi gitu ya.
+oke oke, tapi secara fungsionalitas
+
+204
+00:22:40,980 --> 00:22:47,778
+Lazu : berarti Tetep bisa ya maksudnya
+artikelnya muncul pas disearch ya?
+Rizky : oh ya
+
+205
+00:22:47,778 --> 00:22:53,440
+Rizky : secara fungsionalitas sudah
+bekerja dengan baik itu fitur searchnya
+
+206
+00:22:53,440 --> 00:23:03,900
+Lazu : Oke untuk fitur berikutnya itu mengenai
+kontrak kami yang ada tombol di sebelah pencarian itu
+
+207
+00:23:03,900 --> 00:23:11,720
+Lazu : itu gunanya itu buat ngirim pesan
+langsung ke kita cuma lewat sosial media
+
+208
+00:23:11,720 --> 00:23:20,349
+Lazu : yang ada di tampilan kontak tersebut
+oke Bisa dicoba sebelumnya dan
+
+209
+00:23:20,349 --> 00:23:26,089
+Lazu : melakukan pemberian feedbac ke kita
+Rizky : oke sudah
+
+210
+00:23:26,089 --> 00:23:29,080
+Lazu : Oke udah ya berarti?
+Rizky : sudah
+
+211
+00:23:29,080 --> 00:23:32,185
+Lazu : oke bisa kasih masukan atau...
+
+212
+00:23:32,409 --> 00:23:39,470
+Lazu : kalau ada kendala boleh
+Rizky : kita langsung aja masukkan nya kali, yang saya...
+
+213
+00:23:39,470 --> 00:23:45,369
+Rizky L harapkan ya kalau misalnya disebutkan
+ini adalah itu kontak kami itu..
+
+214
+00:23:45,369 --> 00:23:50,950
+Rizky : bentuknya form kali ya form
+untuk kita langsung ngirim pesan ke...
+
+215
+00:23:50,950 --> 00:23:56,990
+Rizky : siapapun yang dituju siapapun yang
+bertanggung jawab atas sini mungkin kalo
+
+216
+00:23:56,990 --> 00:24:02,119
+Rizky : dari saya harapannya seperi itu tapi
+kalau di sini kan isinya adalah link
+
+217
+00:24:02,119 --> 00:24:09,370
+sosial media Jadi mungkin flow yang
+diharapkan adalah klik terus baru kirim Tapi kalau saya sendiri
+
+218
+00:24:11,920 --> 00:24:17,920
+Rizky : saya lebih suka ya lebih itu
+kalau misalnya langsung form aja
+
+219
+00:24:17,920 --> 00:24:24,339
+Lazu : jadi pas di klik itu langsung muncul form untuk nulis pesannya ya ?
+
+220
+00:24:24,339 --> 00:24:29,440
+Lazu : misalnya nama kita gitu ya? nanti
+langsung pencet kirim nanti langsung
+
+221
+00:24:29,440 --> 00:24:35,440
+Lazu : kirim pesan ke admin dari aplikasi itu
+Rizky : betul itu kita harus input..
+
+222
+00:24:35,440 --> 00:24:40,710
+Rizky : email untuk mengharapkan balasan atau bagaimana
+
+223
+00:24:40,710 --> 00:24:50,009
+Lazu : mantap sih Oke jadi dibanding sosial
+media mending langsung form begitu ya
+
+224
+00:24:53,012 --> 00:25:01,779
+Lazu : untuk fitur nya itu, itu aja di aplikasi ini ada beberapa yang tadi saya sebutkan
+
+225
+00:25:01,779 --> 00:25:11,140
+Lazu ; kalau secara overall di aplikasi ini
+gimana sih tanggapannya Mas Rizki penilaiannya apakah...
+
+226
+00:25:11,140 --> 00:25:19,084
+Lazu : berguna apakah bagus atau kurang berguna gapapa, dikasih aja feedbacknya
+
+227
+00:25:22,915 --> 00:25:26,181
+Rizky : feedback secara overall ya ?
+
+228
+00:25:26,746 --> 00:25:31,794
+Rizky : secara keseluruhan si, experience saya nyoba aplikasi ini
+
+229
+00:25:31,794 --> 00:25:33,675
+Rizky : bagus bagus aja gitu ya
+
+230
+00:25:35,684 --> 00:25:41,395
+Rizky : navigasinya enak, cepet, aplikasinya enteng, gak ribet ribet banget
+
+231
+00:25:41,395 --> 00:25:47,624
+Rizky : ya straight forward banget lah, sesuai dengan apa yang di pasar kan
+
+232
+00:25:47,624 --> 00:25:50,469
+Rizky : apa yang di iklankan gitu
+
+233
+00:25:52,740 --> 00:25:59,220
+Rizky : artikel tutorial nyaman digunakan, fitur searchnya enak, ada komentar
+
+234
+00:25:59,220 --> 00:26:04,819
+Rizky : untuk ya kalau memang misal si penulis
+ada typo gitu kan
+
+235
+00:26:04,819 --> 00:26:14,700
+Rizky : Menurut saya baguslah dan saya juga udah mulai ya nyaman juga sih pakai aplikasi ini
+
+236
+00:26:14,700 --> 00:26:20,190
+Rizky : kemungkinan untuk sekarang saya keep
+dulu aplikasinya Saya coba lihat memang
+
+237
+00:26:20,190 --> 00:26:26,490
+Rizky : enggak langsung ku uninstalllah
+Lazu : Oke Bisa jadi buat belajar juga Ya
+
+238
+00:26:26,490 --> 00:26:34,302
+Rizky : betul Ya lumayanlah ada nambah ilmu baru
+dan juga nyaman
+
+239
+00:26:37,222 --> 00:26:39,346
+Lazu : oke paling itu aja sih wawancaranya
+
+240
+00:26:39,660 --> 00:26:50,890
+Lazu : Makasih buat saran dan masukkannya tadi
+coba buat kita tampung dan saya nanti buat ngelakuin update di..
+
+241
+00:26:50,890 --> 00:26:56,410
+Lazu : aplikasinya dari beberapa saran yang
+mas Rizky bilang tadi Kalau bisa
+
+242
+00:26:56,410 --> 00:27:06,298
+lazu : saya rangkum ada beberapa masukan buat
+yang mode darkmode, buat yang dikomentarnya
+
+243
+00:27:06,298 --> 00:27:14,549
+Lazu : flow dari kontak Adminnya itu harusnya
+pakai form, Oke nanti itu coba kita coba pertimbangin lagi
+
+244
+00:27:14,549 --> 00:27:20,490
+Lazu : dan secara overall juga berarti
+fungsionalitas gitu Udah bisa di hp-nya
+
+245
+00:27:20,490 --> 00:27:25,060
+Lazu : Mas Rizki berarti ya
+Rizky : betul
+
+246
+00:27:25,594 --> 00:27:35,900
+Lazu : itu aja si paling , Makasih udah nyempetin waktunya buat ngelakuin user testing di aplikasi zonacoding
+
+247
+00:27:35,900 --> 00:27:44,424
+Lazu :  makasih waktunya sekali lagi
+wassalamualaikum warahmatullahi wabarokatu
+
+248
+00:27:44,424 --> 00:27:45,836
+Rizky : waalaikumsalam
+
