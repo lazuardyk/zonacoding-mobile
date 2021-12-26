@@ -16,6 +16,9 @@ He is an informatics student and working as Software Engineer Intern, he is ofte
 He is a computer science student and often reads programming articles. Also, he has read several articles on Zona Coding's website. *Testing conducted on December 24, 2021.*
 
 ## Recording Links
-1. https://youtu.be/g7FNdBhrAk0 (Dipta Harimbawa). Subtitle: 
-2. https://youtu.be/2hmlsMJaQeY (Rizky Baihaqi). Subtitle: 
-3. https://youtu.be/HLAYZFVUeLM (Zaidan Pratama). Subtitle: 
+1. https://youtu.be/g7FNdBhrAk0 (Dipta Harimbawa).  
+Subtitle: https://github.com/lazuardyk/zonacoding-mobile/blob/main/subs/dipta.srt
+2. https://youtu.be/2hmlsMJaQeY (Rizky Baihaqi).  
+Subtitle: https://github.com/lazuardyk/zonacoding-mobile/blob/main/subs/rizky.srt
+3. https://youtu.be/HLAYZFVUeLM (Zaidan Pratama).  
+Subtitle: https://github.com/lazuardyk/zonacoding-mobile/blob/main/subs/zaidan.srt
